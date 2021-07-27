@@ -89,6 +89,14 @@ header .logo
 	text-decoration: none;
 }
 
+header .logo p
+{
+   color: #fff;
+	font-size: 2em;
+	font-weight: 700;
+	text-decoration: none;	
+}
+
 header.logo span 
 {
     color: #ff0157;
